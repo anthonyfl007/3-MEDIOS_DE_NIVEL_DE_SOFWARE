@@ -1,0 +1,8 @@
+1. WebSockets: es un protocolo de comunicación bidireccional que permite la transmisión de datos en tiempo real entre un cliente y un servidor. 
+Es muy útil para aplicaciones como chats, juegos en línea, y otras aplicaciones que requieren de una comunicación en tiempo real.
+
+2. Server-Sent Events (SSE): es una tecnología que permite la transmisión de eventos del servidor al cliente a través de una conexión HTTP. 
+Es muy útil para aplicaciones que requieren actualizaciones en tiempo real, como feeds de noticias o notificaciones.
+
+3. Long Polling: es una técnica que consiste en enviar una petición al servidor y mantenerla abierta hasta que haya datos disponibles para enviar al cliente. 
+Es muy útil para aplicaciones que requieren actualizaciones en tiempo real, como chats o juegos en línea.
